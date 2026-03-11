@@ -1,6 +1,9 @@
-def main():
-    print("Hello from github!")
+def adition(a,b):
+
+    adition  = a+b 
+    print(adition)
 
 
-if __name__ == "__main__":
-    main()
+
+adition(8,5)
+    
